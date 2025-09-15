@@ -8,8 +8,3 @@ AI-Based Rockfall Prediction and Alert System for Open-Pit Mines.
 - Streamlit dashboard for visualization
 - Training scripts for ML models
 
-## How to run
-### Backend
-```bash
-cd backend
-uvicorn main:app --reload
